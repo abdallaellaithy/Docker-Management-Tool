@@ -1,4 +1,7 @@
-# Docker and Virtual Machine Management GUI
+<div align="center">
+  <h1>Docker and Virtual Machine Management GUI<h1/>
+  <img src="GUI.png" alt="Sample GUI">
+</div>
 
 ## Project Overview
 The project aims to create a graphical user interface (GUI) application for managing Docker containers and virtual machines. It provides functionalities for Docker management, Docker image search, and virtual machine management.
