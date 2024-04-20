@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Docker and Virtual Machine Management GUI<h1/>
-  <img src="GUI.png" alt="Sample GUI">
+  <a href="#">
+    <img src="GUI.png" alt="Sample GUI">
+  </a>
 </div>
 
 ## Project Overview
