@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Docker and Virtual Machine Management GUI<h1/>
   <a href="#">
-    <img src="GUI.png" alt="Sample GUI">
+    <img src="image/GUI.png" alt="Sample GUI">
   </a>
 </div>
 
